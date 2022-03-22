@@ -84,7 +84,7 @@
     <name>nacos-consistency ${project.version}</name>
     <packaging>jar</packaging>
     <parent>
-        <groupId>dev.taie.cloud</groupId>
+        <groupId>dev.taie.nacos</groupId>
         <artifactId>nacos-all</artifactId>
         <relativePath>../pom.xml</relativePath>
         <version>${revision}</version>

@@ -20,7 +20,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <inceptionYear>2018</inceptionYear>
-    <groupId>dev.taie.cloud</groupId>
+    <groupId>dev.taie.nacos</groupId>
     <artifactId>nacos-all</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
